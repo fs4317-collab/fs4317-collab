@@ -28,7 +28,7 @@ I’m currently working on **hands-on cybersecurity projects** to prepare for en
 
 Here are a few practical, skill-building cybersecurity projects:
 
-### 🔸 **SOC Analyst Home Lab**
+### 🔸 **SOC Analyst using TryHackMe**
 
 Simulated SOC environment using Wazuh & Elastic SIEM. Built alerts and monitored logs.
 **Repo:** *coming soon*

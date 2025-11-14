@@ -7,41 +7,41 @@ I am developing my defensive cybersecurity foundation through a structured Blue 
 ## 🛡️ Certifications
 
 ### 📌 In Progress
-- **CompTIA Security+** (Expected in the near future)
+- **CompTIA Security+** (Expected: January 2026)
 
-### 🏅 Completed
-- **Security Analyst Level 1 (SAL1)**
+### 📌 In Progress
+- **Security Analyst Level 1 (SAL1)** (Expected: December 2026)
 
 ---
 
 ## 🔵 Blue Team & SOC Learning Path
 
-### **🔹 Blue Team Introduction**
+### 🔹 Blue Team Introduction
 - Learned the purpose of defensive security and how SOC teams protect organizations from attacks.
 
-### **🔹 Junior Security Analyst Intro**
+### 🔹 Junior Security Analyst Intro
 - Experienced a day-in-the-life scenario of an analyst and practiced basic SOC duties.
 
-### **🔹 SOC Role in Blue Team**
+### 🔹 SOC Role in Blue Team
 - Explored analyst roles and how to advance through SOC levels beginning at L1.
 
-### **🔹 Humans as Attack Vectors**
+### 🔹 Humans as Attack Vectors
 - Studied how attackers target people and how SOC teams detect and defend against social engineering.
 
-### **🔹 Systems as Attack Vectors**
+### 🔹 Systems as Attack Vectors
 - Learned how attackers exploit vulnerable or misconfigured systems and how to protect them.
 
 ---
 
 ## 🟦 SOC Core Skills & Knowledge
 
-### **🔹 SOC Team Internals**
+### 🔹 SOC Team Internals
 - Gained essential triage, alert classification, and escalation skills.
 
-### **🔹 Core SOC Solutions**
+### 🔹 Core SOC Solutions
 - Learned the purpose and function of SIEM, EDR, and SOAR in SOC workflows.
 
-### **🔹 Cyber Defence Frameworks**
+### 🔹 Cyber Defence Frameworks
 - Studied defensive frameworks including:  
   - Pyramid of Pain  
   - Cyber Kill Chain  
@@ -51,48 +51,49 @@ I am developing my defensive cybersecurity foundation through a structured Blue 
 
 ## 🧪 Analysis & Monitoring Training
 
-### **🔹 Phishing Analysis**
+### 🔹 Phishing Analysis
 - Investigated real-world phishing attempts and learned defensive techniques.
 
-### **🔹 Network Traffic Analysis**
+### 🔹 Network Traffic Analysis
 - Learned the fundamentals of network traffic inspection using Wireshark.
 
-### **🔹 Network Security Monitoring**
+### 🔹 Network Security Monitoring
 - Studied network monitoring concepts and detection of attacks such as:  
   - MITM  
   - Network discovery  
   - Data exfiltration  
 
-### **🔹 Web Security Monitoring**
+### 🔹 Web Security Monitoring
 - Learned how organizations monitor and protect web services through SOC processes.
 
-### **🔹 Windows Security Monitoring**
+### 🔹 Windows Security Monitoring
 - Practiced detection of common Windows-based attacks through real-world logging examples.
 
-### **🔹 Linux Security Monitoring**
+### 🔹 Linux Security Monitoring
 - Analyzed Linux logs to detect common Linux-based intrusions and attacks.
 
 ---
 
 ## 🧩 Threat & Incident Analysis
 
-### **🔹 Malware Concepts for SOC**
+### 🔹 Malware Concepts for SOC
 - Learned common malware types, behaviors, and concepts such as living-off-the-land attacks.
 
-### **🔹 Threat Analysis Tools**
+### 🔹 Threat Analysis Tools
 - Practiced using threat intelligence data and enrichment workflows for investigations.
 
-### **🔹 SIEM Triage for SOC**
+### 🔹 SIEM Triage for SOC
 - Explored how SIEM alerts are analyzed, correlated, and turned into incident timelines.
 
 ---
 
 ## 🏁 Capstone
 
-### **🔹 SOC Level 1 Capstone Challenges**
+### 🔹 SOC Level 1 Capstone Challenges
 - Investigated critical incidents using all acquired skills from the training path.
 
 ---
 
 ## 📫 Contact
+GitHub: https://github.com/fs4317-collab  
 Email: fs4317@gmail.com

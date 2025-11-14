@@ -1,52 +1,98 @@
-# 👋 Hi, I'm Felix Soto Toro
+# 👋 Hi, I'm Felix — Security Analyst in Training
 
-Aspiring Cybersecurity Professional | IT & Cloud Security Enthusiast
-
-Benton, Arkansas • 📧 fs4317@gmail.com • GitHub: [fs4317-collab](https://github.com/fs4317-collab)
+I am developing my defensive cybersecurity foundation through a structured Blue Team and SOC learning path. My focus is understanding how modern Security Operations Centers work, how attacks happen, and how analysts detect, investigate, and respond.
 
 ---
 
-## 🔐 About Me
-I'm learning and building skills in **cybersecurity, cloud security, and IT systems**.  
-I have a strong technical background in IT support, system troubleshooting, and complex technical environments.
+## 🛡️ Certifications
 
-I’m currently working on **hands-on cybersecurity projects** to prepare for entry-level roles.
+### 📌 In Progress
+- **CompTIA Security+** (Expected in the near future)
 
----
-
-## 🛠 Skills
-- Basic Cybersecurity Concepts (threats, vulnerabilities, incident response)  
-- IT Support & System Troubleshooting  
-- Windows & Linux Administration  
-- Networking Basics (TCP/IP, DNS, DHCP)  
-- Python Scripting for Security Tasks  
-- Virtualization (VMware, VirtualBox)  
+### 🏅 Completed
+- **Security Analyst Level 1 (SAL1)**
 
 ---
 
-## 🗂️ Featured Projects
+## 🔵 Blue Team & SOC Learning Path
 
-Here are a few practical, skill-building cybersecurity projects:
+### **🔹 Blue Team Introduction**
+- Learned the purpose of defensive security and how SOC teams protect organizations from attacks.
 
-### 🔸 **SOC Analyst using TryHackMe**
+### **🔹 Junior Security Analyst Intro**
+- Experienced a day-in-the-life scenario of an analyst and practiced basic SOC duties.
 
-Simulated SOC environment using Wazuh & Elastic SIEM. Built alerts and monitored logs.
-**Repo:** *coming soon*
+### **🔹 SOC Role in Blue Team**
+- Explored analyst roles and how to advance through SOC levels beginning at L1.
 
-### 🔸 **Cloud Security IAM Lab (AWS)**
+### **🔹 Humans as Attack Vectors**
+- Studied how attackers target people and how SOC teams detect and defend against social engineering.
 
-Configured IAM roles, MFA, policies, and logging to strengthen cloud security.
-**Repo:** *coming soon*
+### **🔹 Systems as Attack Vectors**
+- Learned how attackers exploit vulnerable or misconfigured systems and how to protect them.
 
-### 🔸 **Python Log Parser for Security Events**
+---
 
-A script that parses local logs and identifies suspicious patterns.
-**Repo:** *coming soon*
+## 🟦 SOC Core Skills & Knowledge
 
-### 🔸 **Linux Hardening Checklist + Scripts**
+### **🔹 SOC Team Internals**
+- Gained essential triage, alert classification, and escalation skills.
 
-Configured user permissions, SSH rules, and firewall settings.
-**Repo:** *coming soon*
+### **🔹 Core SOC Solutions**
+- Learned the purpose and function of SIEM, EDR, and SOAR in SOC workflows.
+
+### **🔹 Cyber Defence Frameworks**
+- Studied defensive frameworks including:  
+  - Pyramid of Pain  
+  - Cyber Kill Chain  
+  - MITRE ATT&CK  
+
+---
+
+## 🧪 Analysis & Monitoring Training
+
+### **🔹 Phishing Analysis**
+- Investigated real-world phishing attempts and learned defensive techniques.
+
+### **🔹 Network Traffic Analysis**
+- Learned the fundamentals of network traffic inspection using Wireshark.
+
+### **🔹 Network Security Monitoring**
+- Studied network monitoring concepts and detection of attacks such as:  
+  - MITM  
+  - Network discovery  
+  - Data exfiltration  
+
+### **🔹 Web Security Monitoring**
+- Learned how organizations monitor and protect web services through SOC processes.
+
+### **🔹 Windows Security Monitoring**
+- Practiced detection of common Windows-based attacks through real-world logging examples.
+
+### **🔹 Linux Security Monitoring**
+- Analyzed Linux logs to detect common Linux-based intrusions and attacks.
+
+---
+
+## 🧩 Threat & Incident Analysis
+
+### **🔹 Malware Concepts for SOC**
+- Learned common malware types, behaviors, and concepts such as living-off-the-land attacks.
+
+### **🔹 Threat Analysis Tools**
+- Practiced using threat intelligence data and enrichment workflows for investigations.
+
+### **🔹 SIEM Triage for SOC**
+- Explored how SIEM alerts are analyzed, correlated, and turned into incident timelines.
+
+---
+
+## 🏁 Capstone
+
+### **🔹 SOC Level 1 Capstone Challenges**
+- Investigated critical incidents using all acquired skills from the training path.
+
+---
 
 ## 📫 Contact
-📧 fs4317@gmail.com
+Email: fs4317@gmail.com

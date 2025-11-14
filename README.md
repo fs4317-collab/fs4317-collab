@@ -1,99 +1,52 @@
-# 👋 Hi, I'm Felix — Security Analyst in Training
+# 👋 Security Analyst in Training  
 
-I am developing my defensive cybersecurity foundation through a structured Blue Team and SOC learning path. My focus is understanding how modern Security Operations Centers work, how attacks happen, and how analysts detect, investigate, and respond.
-
----
-
-## 🛡️ Certifications
-
-### 📌 In Progress
-- **CompTIA Security+** (Expected: January 2026)
-
-### 📌 In Progress
-- **Security Analyst Level 1 (SAL1)** (Expected: December 2026)
+I’m building a strong Blue Team and SOC foundation focused on detecting, investigating, and responding to modern cyber threats.
 
 ---
 
-## 🔵 Blue Team & SOC Learning Path
-
-### 🔹 Blue Team Introduction
-- Learned the purpose of defensive security and how SOC teams protect organizations from attacks.
-
-### 🔹 Junior Security Analyst Intro
-- Experienced a day-in-the-life scenario of an analyst and practiced basic SOC duties.
-
-### 🔹 SOC Role in Blue Team
-- Explored analyst roles and how to advance through SOC levels beginning at L1.
-
-### 🔹 Humans as Attack Vectors
-- Studied how attackers target people and how SOC teams detect and defend against social engineering.
-
-### 🔹 Systems as Attack Vectors
-- Learned how attackers exploit vulnerable or misconfigured systems and how to protect them.
+## 🛡️ Certifications  
+### 📌 In Progress  
+- **CompTIA Security+** (January 2026)  
+- **Security Analyst Level 1 (SAL1)** (December 2026)
 
 ---
 
-## 🟦 SOC Core Skills & Knowledge
-
-### 🔹 SOC Team Internals
-- Gained essential triage, alert classification, and escalation skills.
-
-### 🔹 Core SOC Solutions
-- Learned the purpose and function of SIEM, EDR, and SOAR in SOC workflows.
-
-### 🔹 Cyber Defence Frameworks
-- Studied defensive frameworks including:  
-  - Pyramid of Pain  
-  - Cyber Kill Chain  
-  - MITRE ATT&CK  
+## 🔵 Blue Team & SOC Learning Summary  
+- Learned core SOC operations and daily analyst responsibilities.  
+- Studied human-based and system-based attack vectors.  
+- Practiced alert triage, escalation, and incident documentation.  
+- Gained familiarity with SIEM, EDR, SOAR, and defensive frameworks (MITRE ATT&CK, Kill Chain, Pyramid of Pain).  
+- Completed training in phishing analysis, network traffic review, and Windows/Linux log monitoring.  
+- Performed basic malware analysis concepts and threat intelligence enrichment.  
+- Finished hands-on capstone investigations using full SOC workflows.
 
 ---
 
-## 🧪 Analysis & Monitoring Training
+## 🚀 Future Projects (Based on Core SOC Skills)
 
-### 🔹 Phishing Analysis
-- Investigated real-world phishing attempts and learned defensive techniques.
+### 1. **SIEM Alert Investigation Lab**  
+Analyze mock SIEM alerts, demonstrate triage, correlation, and reporting.
 
-### 🔹 Network Traffic Analysis
-- Learned the fundamentals of network traffic inspection using Wireshark.
+### 2. **Phishing Analysis Walkthrough**  
+Break down a phishing email, extract IOCs, and document defensive recommendations.
 
-### 🔹 Network Security Monitoring
-- Studied network monitoring concepts and detection of attacks such as:  
-  - MITM  
-  - Network discovery  
-  - Data exfiltration  
+### 3. **Network Traffic Detection Project**  
+Use PCAP samples to detect MITM, scanning, or exfiltration behavior.
 
-### 🔹 Web Security Monitoring
-- Learned how organizations monitor and protect web services through SOC processes.
+### 4. **Windows Log Analysis Demo**  
+Analyze Windows event logs for suspicious activity and document findings.
 
-### 🔹 Windows Security Monitoring
-- Practiced detection of common Windows-based attacks through real-world logging examples.
+### 5. **Linux Intrusion Detection Project**  
+Investigate Linux log anomalies and highlight attacker techniques.
 
-### 🔹 Linux Security Monitoring
-- Analyzed Linux logs to detect common Linux-based intrusions and attacks.
+### 6. **Threat Intelligence Enrichment Script**  
+Build a workflow (manual or automated) using open-source threat intel sources.
 
----
-
-## 🧩 Threat & Incident Analysis
-
-### 🔹 Malware Concepts for SOC
-- Learned common malware types, behaviors, and concepts such as living-off-the-land attacks.
-
-### 🔹 Threat Analysis Tools
-- Practiced using threat intelligence data and enrichment workflows for investigations.
-
-### 🔹 SIEM Triage for SOC
-- Explored how SIEM alerts are analyzed, correlated, and turned into incident timelines.
+### 7. **SOC Incident Report Template**  
+Create a professional incident report based on a mock multi-stage attack.
 
 ---
 
-## 🏁 Capstone
-
-### 🔹 SOC Level 1 Capstone Challenges
-- Investigated critical incidents using all acquired skills from the training path.
-
----
-
-## 📫 Contact
-GitHub: https://github.com/fs4317-collab  
-Email: fs4317@gmail.com
+## 📫 Contact  
+**GitHub:** https://github.com/fs4317-collab  
+**Email:** fs4317@gmail.com

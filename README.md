@@ -1,52 +1,55 @@
-# 👋 Security Analyst in Training  
+# 👋 Security Analyst in Training
 
-I’m building a strong Blue Team and SOC foundation focused on detecting, investigating, and responding to modern cyber threats.
+I’m developing a strong **Blue Team and SOC foundation** with a focus on detecting, investigating, and responding to modern cyber threats. My work centers on learning real SOC workflows, improving defensive analysis skills, and building hands-on security projects.
 
 ---
 
 ## 🛡️ Certifications  
-### 📌 In Progress  
-- **CompTIA Security+** (January 2026)  
+### In Progress
+- **CompTIA Security+** (January 2026)
 - **Security Analyst Level 1 (SAL1)** (December 2026)
 
 ---
 
-## 🔵 Blue Team & SOC Learning Summary  
-- Learned core SOC operations and daily analyst responsibilities.  
+## 🔵 Blue Team & SOC Learning Summary
+- Learned core SOC operations and analyst responsibilities.  
 - Studied human-based and system-based attack vectors.  
 - Practiced alert triage, escalation, and incident documentation.  
-- Gained familiarity with SIEM, EDR, SOAR, and defensive frameworks (MITRE ATT&CK, Kill Chain, Pyramid of Pain).  
+- Gained familiarity with **SIEM, EDR, SOAR**, and defensive frameworks  
+  (**MITRE ATT&CK, Cyber Kill Chain, Pyramid of Pain**).  
 - Completed training in phishing analysis, network traffic review, and Windows/Linux log monitoring.  
-- Performed basic malware analysis concepts and threat intelligence enrichment.  
+- Performed foundational malware analysis and threat intelligence enrichment.  
 - Finished hands-on capstone investigations using full SOC workflows.
 
 ---
 
-## 🚀 Future Projects (Based on Core SOC Skills)
+## 🚀 Future Projects (SOC Skill–Based)
 
-### 1. **SIEM Alert Investigation Lab**  
-Analyze mock SIEM alerts, demonstrate triage, correlation, and reporting.
+These will be added as I complete them:
 
-### 2. **Phishing Analysis Walkthrough**  
-Break down a phishing email, extract IOCs, and document defensive recommendations.
+### **1. SIEM Alert Investigation Lab**  
+Mock SIEM alerts, triage, correlation, and reporting.
 
-### 3. **Network Traffic Detection Project**  
-Use PCAP samples to detect MITM, scanning, or exfiltration behavior.
+### **2. Phishing Analysis Walkthrough**  
+Email analysis, IOC extraction, and defensive recommendations.
 
-### 4. **Windows Log Analysis Demo**  
-Analyze Windows event logs for suspicious activity and document findings.
+### **3. Network Traffic Detection Project**  
+Analyze PCAPs for scanning, MITM, or exfiltration behavior.
 
-### 5. **Linux Intrusion Detection Project**  
-Investigate Linux log anomalies and highlight attacker techniques.
+### **4. Windows Log Analysis Demo**  
+Investigate suspicious Windows event logs and document findings.
 
-### 6. **Threat Intelligence Enrichment Script**  
-Build a workflow (manual or automated) using open-source threat intel sources.
+### **5. Linux Intrusion Detection Project**  
+Review Linux logs for anomalies and attacker techniques.
 
-### 7. **SOC Incident Report Template**  
-Create a professional incident report based on a mock multi-stage attack.
+### **6. Threat Intelligence Enrichment Script**  
+Create a manual or automated workflow using open-source threat intelligence sources.
+
+### **7. SOC Incident Report Template**  
+Build a professional incident report based on a mock multi-stage attack.
 
 ---
 
-## 📫 Contact  
-**GitHub:** https://github.com/fs4317-collab  
-**Email:** fs4317@gmail.com
+## 📫 Contact
+- **GitHub:** https://github.com/fs4317-collab  
+- **Email:** fs4317@gmail.com

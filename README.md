@@ -12,7 +12,7 @@ I’m developing a strong **Blue Team and SOC foundation** with a focus on detec
 ---
 
 ## 🔵 Blue Team & SOC Learning Summary
-- Learned core SOC operations and analyst responsibilities.  
+- Learned core SOC operations and analyst responsibilities.
 - Studied human-based and system-based attack vectors.  
 - Practiced alert triage, escalation, and incident documentation.  
 - Gained familiarity with **SIEM, EDR, SOAR**, and defensive frameworks  

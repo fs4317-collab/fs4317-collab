@@ -1,54 +1,71 @@
-# 👋 Security Analyst in Training
+# 👋 Hi, I'm Felix — Security Analyst in Training  
 
-I’m developing a strong **Blue Team and SOC foundation** with a focus on detecting, investigating, and responding to modern cyber threats. My work centers on learning real SOC workflows, improving defensive analysis skills, and building hands-on security projects.
-
----
-
-## 🛡️ Certifications  
-### In Progress
-- **CompTIA Security+** (January 2026)
----
-
-## 🔵 Blue Team & SOC Learning Summary
-- <img src="https://tryhackme-badges.s3.amazonaws.com/fs4317.png" alt="Your Image Badge" />
-- Learned core SOC operations and analyst responsibilities.
-- Studied human-based and system-based attack vectors.
-- Practiced alert triage, escalation, and incident documentation.  
-- Gained familiarity with **SIEM, EDR, SOAR**, and defensive frameworks  
-  (**MITRE ATT&CK, Cyber Kill Chain, Pyramid of Pain**).  
-- Completed training in phishing analysis, network traffic review, and Windows/Linux log monitoring.  
-- Performed foundational malware analysis and threat intelligence enrichment.  
-- Finished hands-on capstone investigations using full SOC workflows.
+I’m building a strong foundation in Blue Team operations and Security Operations Center (SOC) workflows. My focus is on detecting, investigating, and responding to real-world threats through structured labs, hands-on practice, and continuous skill development.
 
 ---
 
-## 🚀 Future Projects (SOC Skill–Based)
-
-These will be added as I complete them:
-
-### **1. SIEM Alert Investigation Lab**  
-Mock SIEM alerts, triage, correlation, and reporting.
-
-### **2. Phishing Analysis Walkthrough**  
-Email analysis, IOC extraction, and defensive recommendations.
-
-### **3. Network Traffic Detection Project**  
-Analyze PCAPs for scanning, MITM, or exfiltration behavior.
-
-### **4. Windows Log Analysis Demo**  
-Investigate suspicious Windows event logs and document findings.
-
-### **5. Linux Intrusion Detection Project**  
-Review Linux logs for anomalies and attacker techniques.
-
-### **6. Threat Intelligence Enrichment Script**  
-Create a manual or automated workflow using open-source threat intelligence sources.
-
-### **7. SOC Incident Report Template**  
-Build a professional incident report based on a mock multi-stage attack.
+## 🛡️ Focus Areas
+- SOC analysis & alert triage  
+- SIEM log analysis (Elastic / Splunk)  
+- Incident response fundamentals  
+- Network traffic & packet analysis  
+- Windows & Linux security monitoring  
+- Threat intelligence & enrichment  
+- Phishing investigation & email analysis  
 
 ---
 
+## 🎓 Certifications (In Progress)
+- **CompTIA Security+** — *Expected January 2026*
+
+---
+
+## 📘 Learning Path (Active)
+- Blue Team Introduction  
+- SOC Team Internals  
+- Core SOC Solutions (SIEM, EDR, SOAR)  
+- Cyber Defence Frameworks (MITRE, Kill Chain, Pyramid of Pain)  
+- Phishing Analysis  
+- Network Traffic Analysis  
+- Network Security Monitoring  
+- Web Security Monitoring  
+- Windows Security Monitoring  
+- Linux Security Monitoring  
+- Malware Concepts for SOC  
+- Threat Analysis Tools  
+- SIEM Triage for SOC  
+
+---
+
+## 🧩 Projects — SOC Level 1 Capstone Challenges
+
+### 🔹 Tempest  
+Investigate a compromised workstation impacted by a full attack chain and reconstruct the attacker’s actions.
+
+### 🔹 Boogeyman 1  
+A new threat actor calling themselves **Boogeyman** has appeared. Analyze provided artifacts and determine the scope of compromise.
+
+### 🔹 Boogeyman 2  
+The Boogeyman returns with new techniques and indicators. Identify persistence, lateral movement, and any new IoCs.
+
+### 🔹 Boogeyman 3  
+The threat actor resurfaces once again. Perform deep-dive threat hunting and correlation across multiple data sources.
+
+### 🔹 Hidden Hooks — SOC Simulator Scenario  
+Investigate suspicious activity targeting **TryHatMe Studios**. Analyze logs, artifacts, and intelligence to uncover hidden attacker footholds.
+
+### 🔹 Open Door — SOC Simulator Scenario  
+Threat intelligence reports leaked credentials tied to your organization. Investigate authentication logs and identify unauthorized access paths.
+
+---
+
+## 🎯 Goals
+- Strengthen SOC investigation and detection skills.  
+- Build real-world defensive security projects.  
+- Transition into a Blue Team / SOC Analyst role.  
+
+---
+ 
 ## 📫 Contact
 - **GitHub:** https://github.com/fs4317-collab  
 - **Email:** fs4317@gmail.com

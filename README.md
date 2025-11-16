@@ -7,8 +7,6 @@ I’m developing a strong **Blue Team and SOC foundation** with a focus on detec
 ## 🛡️ Certifications  
 ### In Progress
 - **CompTIA Security+** (January 2026)
-- **Security Analyst Level 1 (SAL1)** (December 2026)
-
 ---
 
 ## 🔵 Blue Team & SOC Learning Summary

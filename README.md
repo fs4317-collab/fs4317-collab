@@ -5,7 +5,10 @@ I’m building a strong foundation in Blue Team operations and Security Operatio
 ---
 
 ## 🛡️ Focus Areas
-- SOC analysis & alert triage  
+- SOC analysis & alert triage
+  
+  <img width="350" height="181" alt="image" src="https://github.com/user-attachments/assets/d2be743a-2770-48df-a62c-909107bd7b79" />
+
 - SIEM log analysis (Elastic / Splunk)  
 - Incident response fundamentals  
 - Network traffic & packet analysis  

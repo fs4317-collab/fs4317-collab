@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Felix — Security Analyst in Training  
+# Security Analyst in Training  
 
 I’m building a strong foundation in Blue Team operations and Security Operations Center (SOC) workflows. My focus is on detecting, investigating, and responding to real-world threats through structured labs, hands-on practice, and continuous skill development.
 

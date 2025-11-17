@@ -4,6 +4,10 @@ I’m building a strong foundation in Blue Team operations and Security Operatio
 
 ---
 
+# TryHackMe Profile Badge
+<img src="https://tryhackme-badges.s3.amazonaws.com/fs4317.png?update=1" alt="Your Image Badge" />
+
+---
 ## 🛡️ Focus Areas
 - SOC analysis & alert triage  
 - SIEM log analysis (Elastic / Splunk)  

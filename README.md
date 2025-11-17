@@ -20,6 +20,7 @@ I’m building a strong foundation in Blue Team operations and Security Operatio
 
 ## 🎓 Certifications (In Progress)
 - **CompTIA Security+** — *Expected January 2026*
+- **Security Analyst Level 1 (SAL1)** *Expected Decemeber 2025*
 
 ---
 

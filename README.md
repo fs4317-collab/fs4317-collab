@@ -16,7 +16,8 @@ I’m building a strong foundation in Blue Team operations and Security Operatio
 ---
 
 ## 🎓 Certifications (In Progress)
-- **CompTIA Security+** - *Expected January 2026*
+**CompTIA Security+** - Expected January 2026  
+*A globally recognized certification validating baseline skills in cybersecurity, including risk management, network security, threat analysis, cryptography, and operational security in IT environments.*
 
 ---
 

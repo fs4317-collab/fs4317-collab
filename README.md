@@ -21,6 +21,16 @@ I’m building a strong foundation in Blue Team operations and Security Operatio
 
 ---
 
+## TryHackMe Profile Badge
+<img src="https://tryhackme-badges.s3.amazonaws.com/fs4317.png?1" alt="Your Image Badge" />
+<p>
+  <strong>TryHackMe</strong> is an online cybersecurity training platform that provides hands-on labs and challenges. 
+  Through completing rooms and earning badges, I have developed practical skills in penetration testing, network security, 
+  and threat defense, demonstrating my ability to apply cybersecurity concepts in real-world scenarios.
+</p>
+
+---
+
 ## 📘 Learning Path (Active)
 - Blue Team Introduction  
 - SOC Team Internals  
